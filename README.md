@@ -20,5 +20,9 @@
 7. Assign link github ke lokasi yang sudah disediakan
 8. Submit!
 
+
+Link Issue terkait : https://github.com/madwanz64/neuron-junior-programmer-4/issues/1
+
+
 ### Diagram
 ![Diagram Sample Database dari MySQL Tutorial](diagram.png)
